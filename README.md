@@ -156,6 +156,8 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [refly-ai/refly](https://github.com/refly-ai/refly) - Skills and workflow builder ecosystem with overlap for agent tooling. ![GitHub stars](https://img.shields.io/github/stars/refly-ai/refly?style=social)
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Windows companion hub for desktop intergration. ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
 - [Unbrowse](https://www.unbrowse.ai/) - Platform for converting browser workflows into API integrations and agent skills.
+- [OpenClaw Installer](https://github.com/saqierma-cyber/openclaw-installer) - One‑click Windows desktop tool for OpenClaw installation, supporting 20+ major LLM providers
+
 
 ## Deployment and Operations
 
